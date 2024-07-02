@@ -15,7 +15,6 @@ import styles from './Chat.module.css'
 import Contoso from '../../assets/bored.gif';
 import { XSSAllowTags } from '../../constants/sanatizeAllowables'
 
-
 import {
   ChatMessage,
   ConversationRequest,
